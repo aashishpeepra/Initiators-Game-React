@@ -9,7 +9,7 @@ This is a superfun game I created for fun. Enter your choice share with your fri
 
 <hr>
 
-# Stakck
+# Stack
 <ul>
   <li> React </li>
   <li> Firebase CloudFire </li>
