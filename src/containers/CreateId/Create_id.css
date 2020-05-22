@@ -1,0 +1,102 @@
+.createid_heading h1{
+    color:#fff;
+    font-size: 180%;
+    padding:10px 15px 5px 20px;
+    opacity: 0.5;
+    background-color:#000;
+}
+.createid_heading{
+    z-index:1;
+    position: fixed;
+    margin-left:40%;
+    margin-top: -100px;
+    
+    /* width:-200px auto 0px auto; */
+    /* display:inline-block; */
+    /* margin:-15vh auto 0 32vw; */
+}
+.createid_header{
+    position: relative;
+}
+.createid_imagebox{
+    height:20vh;
+    width:100vw;
+}
+.createid_imagebox img{
+    height:100%;
+    width:100%;
+}
+.enterFields{
+    margin-top:20px;
+}
+.enterFields h1{
+    font-size:110%;
+    color:#000;
+    margin-bottom:10px;
+}
+.enterFields fieldset{
+    border:0px;
+    margin:20px 20px 10px 20px;
+    font-size: 80%;
+}
+.enterFields fieldset legend{
+    display: inline-block;
+}
+.enterFields fieldset  input{
+    text-align: center;
+    display: inline-block;
+    height:30px;
+    border:0px;
+    border-bottom:2px solid #32a89e;
+    width:45vw;
+    font-size: 80%;
+}
+.enterFields fieldset input:focus{
+    outline: none;
+}
+.buttonId{
+    margin-top:10px;
+    display: none;
+}
+.playId{
+    margin-top:10px;
+}
+.or{
+    margin-top:25px;
+}
+.section_createid{
+    height:100vh;
+    width: 100vw;
+}
+.loading{
+    height:100vh;
+    width:100vw;
+    background-color:#32a89e;
+    opacity: 0.9;
+    color:#000;
+    font-size:180%;
+    position: relative;
+    z-index:55;
+}
+
+
+.imageBox {
+    margin:30vh 30vw 10vh 25vw;
+    transform: rotate(0deg);
+    position: absolute;
+    height:20vh;
+    width:25vh;
+    animation: rotator infinite forwards 10s;
+}
+.imageBox img{
+    height:100%;
+    width:100%;
+}
+@keyframes rotator{
+    from{transform: rotate(0deg)}
+    to{transform: rotate(360deg)}
+}
+/* .buttonBox{
+    margin-top:200px;
+    display:none;
+} */

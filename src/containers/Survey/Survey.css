@@ -1,0 +1,30 @@
+
+.section_survey{
+    height:100vh;
+    width:100vw;
+    overflow-x: hidden;
+}
+.section_question_holder{
+    margin-top:20px;
+    
+}
+.survey-form{
+    margin-top:40px;
+}
+.survey-form legend{
+    color:#000;
+}
+.survey-form fieldset{
+    border:0px;
+}
+.survey-form input,textarea{
+    margin-top:10px;
+    text-align: center;
+    height:30px;
+    font-size: 80%;
+    width:80vw;
+    border:0px;
+    border-bottom:2px solid #32a89e;
+}:focus{
+    outline: none;
+}

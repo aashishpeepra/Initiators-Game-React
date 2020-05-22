@@ -1,0 +1,54 @@
+.section1 h1{
+    color:#0bb5b1;
+    margin-top:3vh;
+    text-transform: uppercase;
+    
+}
+.section1{
+    z-index:100;
+    position: absolute;
+    width:100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.section1 .heading{
+    width:100vw;
+}
+.section1 .info
+{
+    margin-top:100px;
+    width:90vw;
+    margin:auto;
+}
+.section1 p{
+    margin-bottom:20px;
+    line-height: 135%;
+    display: inline-block;
+    font-size:70%;
+    color: #949999;
+    margin-top:35vh;
+    width:70%;
+} 
+
+.section1 .imageBox {
+    margin:40px 20vw 10px 25vw;
+    position: absolute;
+    transform: rotate(0deg);
+    height:20vh;
+    width:25vh;
+    margin:40px auto 40px -100px;
+    display: inline-block;
+    animation: rotator infinite forwards 10s;
+}
+.section1 .imageBox img{
+    height:100%;
+    width:100%;
+}
+@keyframes rotator{
+    from{transform: rotate(0deg)}
+    to{transform: rotate(360deg)}
+}
+/* .buttonBox{
+    margin-top:200px;
+    display:none;
+} */

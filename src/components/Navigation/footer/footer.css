@@ -1,0 +1,17 @@
+.ftr{
+    height:50px;
+    width:100vw;
+    color:#949999;
+    bottom:0;
+    font-size: 90%;
+    left:0;
+    position: absolute;
+    padding-top:40px;
+    
+}
+.ftr a{
+    margin-top:5px;
+    display: block;
+    color:inherit;
+    font-size:80%;
+}

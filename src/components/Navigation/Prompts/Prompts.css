@@ -1,0 +1,38 @@
+.prompt{
+    margin-top:30px;
+    width:100vw;
+}
+.prompt h1{
+    font-size: 160%;
+}
+
+.enterFieldsX{
+    margin-top:20px;
+}
+.enterFieldsX h1{
+    font-size:110%;
+    color:#000;
+    margin-bottom:10px;
+}
+.enterFieldsX fieldset{
+    border:0px;
+    margin:20px 20px 10px 20px;
+    font-size: 80%;
+}
+.enterFieldsX fieldset legend{
+    display: inline-block;
+    font-size: 140%;
+    margin-bottom:20px;
+}
+.enterFieldsX fieldset  input{
+    text-align: center;
+    display: inline-block;
+    height:30px;
+    border:0px;
+    border-bottom:2px solid #32a89e;
+    width:45vw;
+    font-size: 80%;
+}
+.enterFieldsX fieldset input:focus{
+    outline: none;
+}

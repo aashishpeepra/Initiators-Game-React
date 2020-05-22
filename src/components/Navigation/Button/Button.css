@@ -1,0 +1,18 @@
+.btn{
+    padding:15px 25px;
+    background-color:#32a89e;
+    border-radius: 200px;
+    color:#fff;
+    box-shadow: 0 10px 15px 5px #017C80;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+.btn-small{
+    padding:10px 20px;
+    box-shadow: 0 6px 10px 2px #017C80;
+}
+.btn:hover{
+    cursor: pointer;
+}
