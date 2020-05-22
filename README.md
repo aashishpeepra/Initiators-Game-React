@@ -1,3 +1,26 @@
+# Initiators Game
+
+This is a superfun game I created for fun. Enter your choice share with your friends and check out who is your bestie.
+<hr>
+
+# Website
+
+<a href="https://theinitiatorsgame.firebaseapp.com/"> Website</a>
+
+<hr>
+
+# Stakck
+<ul>
+  <li> React </li>
+  <li> Firebase CloudFire </li>
+  <li> Firebase Realtime </li>
+  <li> React Router </li>
+ </ul>
+ <hr>
+ 
+ # Hosting 
+ Hosted on Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
