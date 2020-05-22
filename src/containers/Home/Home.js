@@ -9,7 +9,7 @@ import Button from '../../components/Navigation/Button/Button';
 import Axios from 'axios';
 class Home extends Component {
     componentDidMount(){
-        // Axios.get("https://theinitiatorsgame.firebaseio.com/.json?auth=O7hWEiJLVY8iX3QHuGU3HIIQRJGe4AdSVTfch43p").then(data=>);
+        // Axios.get("").then(data=>);
     }
     render() {
      
