@@ -1,4 +1,4 @@
-# Initiators Game
+# Multiplayer Choice asking Web game
 
 This is a superfun game I created for fun. Enter your choice share with your friends and check out who is your bestie.
 <hr>
